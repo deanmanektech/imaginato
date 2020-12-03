@@ -9,3 +9,8 @@ npm install
 ```
 node server.js
 ```
+
+### For test
+```
+npm run test-mocha
+```
