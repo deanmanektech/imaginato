@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "npm test",
+    "start": "node server.js",
     "test-mocha": "mocha"
   },
   "keywords": [
